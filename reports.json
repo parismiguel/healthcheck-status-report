@@ -1,0 +1,23 @@
+[
+  {
+    "key": "billing-api",
+    "status": true,
+    "url": "https://qa4.youruprise.com/billingtransactions-webapi/swagger/index.html",
+    "name": "Billing Transactions Web API",
+    "timestamp": "2024-06-12T08:32:30.1054303-05:00"
+  },
+  {
+    "key": "service-2",
+    "status": false,
+    "url": "http://your-service-url-2",
+    "name": "Service 2",
+    "timestamp": "2024-06-12T08:32:32.1009637-05:00"
+  },
+  {
+    "key": "user-management",
+    "status": true,
+    "url": "https://qa4.youruprise.com/UserManagement/UserManagementService.svc",
+    "name": "User Management",
+    "timestamp": "2024-06-12T08:32:29.7286687-05:00"
+  }
+]
